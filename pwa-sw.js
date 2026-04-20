@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'v31.12';
+const CACHE_VERSION = 'v31.15';
 const CACHE_NAME = `evl-minimal-cache-${CACHE_VERSION}`;
 
 const PRECACHE_URLS = [
@@ -6,7 +6,7 @@ const PRECACHE_URLS = [
 'https://cdn.jsdelivr.net/gh/aiwass666/evlmag/seven-of-nine.css',
 'https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.8/js/bootstrap.bundle.min.js',
 'https://cdn.jsdelivr.net/gh/aiwass666/evlmag/kaizen.min.js',
-'https://evl.one/pwa-sw.js',
+'https://cdn.jsdelivr.net/gh/aiwass666/evlmag/pwa-sw.js',
 'https://evl.one/manifest.json',
 'https://evl.one/pwa/maskable_icon_legacy-v4.png',
 ];
