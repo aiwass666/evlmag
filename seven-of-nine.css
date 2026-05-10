@@ -20,6 +20,7 @@ img[loading="lazy"]{animation:fadeIn 0.5s ease-in}
 a{color:var(--bs-gray-dark);text-decoration:none;outline:none!important}
 a:hover,a:active,a:focus{outline:0;text-decoration:none}
 b, strong {font-weight:600}
+svg{display:block;vertical-align:middle;shape-rendering:auto;text-rendering:optimizeLegibility}
 pre,code,kbd,samp {font-family:monospace, monospace;font-size:var(--one)}
 .bastard{transition:transform 69ms ease-in-out}
 .visually-hidden{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);border:0;}
