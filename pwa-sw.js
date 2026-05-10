@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'v31.31';
+const CACHE_VERSION = 'v32.32';
 const CACHE_NAME = `evl-minimal-cache-${CACHE_VERSION}`;
 
 const PRECACHE_URLS = [
