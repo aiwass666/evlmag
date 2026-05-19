@@ -14,7 +14,6 @@
 @media(max-width:427.98px) {.profile-header{height:180px}.container-bn-ds{display:none}}
 body{font-family:inherit;font-size:var(--one);background:#FCFCFC;color:var(--bs-gray-dark);overflow-x:hidden!important}
 img {width:100%;max-width:100%;height:auto;display:block;border-radius:var(--br)}
-img[loading="lazy"]{animation:fadeIn 0.5s ease-in}
 @keyframes fadeIn {0% {opacity:0}100% {opacity:1}}
 a{color:var(--bs-gray-dark);text-decoration:none;outline:none!important}
 a:hover,a:active,a:focus{outline:0;text-decoration:none}
