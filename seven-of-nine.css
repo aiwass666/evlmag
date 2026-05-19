@@ -133,7 +133,7 @@ pre,code,kbd,samp {font-family:monospace, monospace;font-size:var(--one)}
 .cookies-warning .close{position:absolute;top:10px;right:10px;border:0;background-color:transparent}
 .cookies-warning p{margin-bottom:0}
 .cookies-warning a{color:var(--tc)!important}
-.scrollup{display:none;position:fixed;bottom:20px;right:20px;color:var(--bs-white);z-index:999}
+.scrollup{background:var(--tc);display:none;position:fixed;bottom:20px;right:20px;color:var(--bs-white);z-index:999}
 .scrollup:hover,.scrollup:active,.scrollup:focus{color:var(--bs-white)!important}
 .scrollup svg{width:42px;height:42px;line-height:42px;display:block;text-align:center;z-index:999}
 .badge-category{font-size:var(--one);padding:6px 10px;font-weight:400;border-radius:var(--br)}
